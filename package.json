@@ -50,7 +50,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeeoneofc"
+    "url": "git+https://github.com/Whats-bot/lord"
   },
   "keywords": [
     "botwea"
@@ -58,7 +58,7 @@
   "author": "ZEEONE",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zeeoneofc"
+    "url": "https://github.com/Whats-bot/lord"
   },
-  "homepage": "https://github.com/zeeoneofc"
+  "homepage": "https://github.com/Whats-bot/lord"
 }
